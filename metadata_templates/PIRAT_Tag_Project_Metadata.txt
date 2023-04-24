@@ -1,0 +1,40 @@
+===FORM START===
+0. Intended/preferred project shortcode if known? (May be altered by PIRAT Data Manager)
+format: XXXX (3-6 uppercase letters that do not already have a representation in the PIRAT DB. Will be assigned if left blank)
+
+
+1. Title-style description of the project?
+format:  < 70 words in 'paper title' form
+
+
+2. Brief abstract of the project? 
+format: < 500 words in 'abstract' form
+
+
+3. Names, affiliations, email addresses, and ORCID(if available) of researchers involved in the project and their role (one researcher per line, may have multiples) 
+format: Firstname Lastname, institution, role, email, ORCID
+
+
+4. Project URL - can be left blank
+format: http[s]://yoursite.com 
+
+
+5. Species being studied? (May be left blank if array project) 
+format: Common name (scientific name)
+
+
+
+6. Location of the project? 
+format: (city, state/province OR nearby landmark OR lat/long points in decimal degree), one per line
+
+
+7. Start and end dates of the project, if known? 
+format: YYYY-MM-DD to YYYY-MM-DD or YYYY-MM-DD to ongoing
+
+
+8. Citation to use when referencing this project:
+format: Lastname, I., Lastname, I. YYYY. [Title from question 1 or suitable alternative] Will be assigned if left blank.
+
+
+
+===FORM END===
